@@ -14,7 +14,8 @@ Before university, I studied at Indigo Art Academy for four years. I paint and d
 
 - **AI and data:** LLM tools, SQL fundamentals and cloud tools
 - **Design:** Figma, Canva, UI/UX and digital drawing
-- **Exploring:** Telegram bots, HackAlem and the Freedom / NU Data Challenge
+- **Development:** Telegram bots
+- **Events:** HackAlem and the Freedom / NU Data Challenge
 
 I speak Kazakh, Russian and English (IELTS 7.0). I’m looking for internships, work and new connections.
 
